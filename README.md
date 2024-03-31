@@ -1,7 +1,10 @@
-# Terminal 1 
-run script : npm run dev
+## Available Scripts
 
-# Terminal 2
-run script : cd backend
-              node app.js
-             
+In the project root directory, you can run:
+
+### `npm run dev`
+
+In new terminal directory, you can run:
+
+### `cd backend`
+### `node app.js`
