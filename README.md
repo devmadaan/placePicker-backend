@@ -1,7 +1,7 @@
-Terminal 1 
+# Terminal 1 
 run script : npm run dev
 
-Terminal 2
+# Terminal 2
 run script : cd backend
-             node app.js
+              node app.js
              
